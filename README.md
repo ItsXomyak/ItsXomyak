@@ -23,7 +23,6 @@
 - 💼 I'm currently working on: **💻 Development of a new platform for the national center for higher education**
 - 🌱 I'm currently learning: **📚Fullstack web development with Go and React**
 - 💬 Ask me about: **💡 Everything related to web development and information security**
-- ⚡ Fun fact: **😶‍🌫️ I'm still a minor**
 
   **<h3 align="left">Skills</h3>**
 
